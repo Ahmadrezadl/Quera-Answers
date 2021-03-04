@@ -1,4 +1,4 @@
 # Quera-Answers
 Answers of Quera.ir Questions
 
-# [جستجو میان جواب ها](https://kasrazarei39.github.io/Testing/search/) 
+# [جستجو میان جواب ها]((https://ahmadrezadl.github.io/Quera-Answers/) 
